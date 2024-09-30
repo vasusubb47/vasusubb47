@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi 👋
+
+### about me 💬
+my name is vasu subbannavar (vasusubb47)
+
+i'm curently working at EFI as a jr web developer
+
+
+### 📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vasusubb47&show_icons=true&theme=gotham" alt="vasusubb47" />
 
 <!--
 **vasusubb47/vasusubb47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
